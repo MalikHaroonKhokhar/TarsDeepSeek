@@ -23,7 +23,7 @@ Since this script uses DeepSeek R1 via Ollama, install Ollama and pull the model
 > *ollama pull deepseek-r1:7b*
 ## **Usage**
 Run the script to start TARS:
-> *python tars\_ai.py*
+> *python deepseek_tars.py*
 ### **How It Works**
 1\. Listens to user speech and converts it into text.
 
