@@ -1,5 +1,5 @@
 ﻿# **TARS - Voice AI Assistant using DeepSeek R1**
-This project is a real-time voice AI assistant named TARS, powered by DeepSeek R1 via Ollama. It uses speech\_recognition for speech-to-text conversion and pyttsx3 for text-to-speech, replacing AssemblyAI and Eleven Labs.
+This project is a real-time voice AI assistant named TARS, powered by DeepSeek R1 via Ollama. It uses speech\_recognition for speech-to-text conversion and pyttsx3 for text-to-speech
 ## **Features**
 • Real-time speech recognition using speech\_recognition.
 
